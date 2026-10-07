@@ -207,6 +207,7 @@ a:focus-visible {
   background-color: #ffffff;
   border: 1px solid #e1e4ee;
   transition: box-shadow 0.2s, transform 0.2s;
+  border-radius: 12px;
 }
 
 .course-card:hover {
